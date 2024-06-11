@@ -1,0 +1,110 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - The Coffee Store</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/product.css" asp-append-version="true" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg">
+            <div class="container-fluid">
+                <a class="navbar-brand fs-1 fw-bold fst-italic" asp-area="" asp-controller="SanPhams" asp-action="Index" >
+                    <img src="~/image/cfs.png" height="70" class="rounded-pill" alt="logo.." />
+                    The Coffee Store
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+                        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse justify-content-between" id="navbarSupportedContent">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+                               aria-haspopup="true" aria-expanded="false" style="font-weight:bolder">
+                                Các loại cà phê
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" asp-controller="SanPhams" asp-action="Index" style="font-weight:bolder">Tất cả</a>
+                                <a class="dropdown-item" asp-controller="SanPhams" asp-action="#" style="font-weight:bolder">Cà phê nóng</a>
+                                <a class="dropdown-item" href="#" style="font-weight:bolder">Cà phê đá</a>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="About" style="font-weight:bolder">Giới thiệu</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Contact" style="font-weight:bolder">Liên hệ</a>
+                        </li>
+                    </ul>
+                    <form class="d-flex" role="search">
+                        <input style="font-weight:bolder" class="form-control rounded-start border-end-0" type="search" placeholder="Tìm kiếm..." aria-label="Search">
+                        <button class="btn btn-outline-light rounded-end border-start-0" type="submit" style="font-weight:bolder; color:black">Search</button>
+                    </form>
+                    <div class="dropdown mx-2">
+                        <button class="btn btn-light dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown"
+                                aria-haspopup="true" aria-expanded="false">
+                            <span class="bi bi-person-fill"></span>
+                        </button>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                            <a class="dropdown-item" asp-controller="Access" asp-action="Login" style="font-weight:bolder">Đăng nhập</a>
+                            <a class="dropdown-item" asp-controller="Home" asp-action="Register" style="font-weight:bolder">Đăng ký</a>
+                            <a class="dropdown-item" asp-controller="Home" asp-action="Account" style="font-weight:bolder">Tài khoản</a>
+                            <button class="dropdown-item" type="button" style="font-weight:bolder">Đăng xuất</button>
+                        </div>
+                    </div>
+                    <a asp-controller="Cart" asp-action="Index" class="text-black"><span style="font-weight:bolder; color:black" class="bi bi-cart-fill btn btn-outline-light me-5"> Giỏ hàng</span></a>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container-fluid">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <footer class="border-top layout-ft bg-dark">
+        <div class="row text-white text-center pt-2 d-flex justify-content-center">
+            <div class="col-sm-4 d-flex flex-column">
+                <h5>Chính sách</h5>
+                <a class="text-white">Chính sách & quy định</a>
+                <a class="text-white">Chính sách vận chuyển</a>
+                <a class="text-white">Chính sách bảo mật</a>
+                <a class="text-white">Chính sách đổi trả</a>
+            </div>
+            <div class="col-sm-4 d-flex flex-column">
+                <h5>Chăm sóc khách hàng</h5>
+                <a asp-controller="Home" asp-action="Contact" class="text-white" style="text-decoration: none;">Liên hệ</a>
+                <p class="text-white">Hotline: 0909 123 123</p>
+                <div class="row col-sm-8 offset-sm-2">
+                    <a class="col-sm-3"><img src="~/image/icons8-facebook-48.png"></a>
+                    <a class="col-sm-3"><img src="~/image/icons8-zalo-48.png"></a>
+                    <a class="col-sm-3"><img src="~/image/icons8-instagram-48.png"></a>
+                    <a class="col-sm-3"><img src="~/image/icons8-tiktok-48.png"></a>
+                </div>
+            </div>
+            <div class="col-sm-4 d-flex flex-column">
+                <h5>Hướng dẫn</h5>
+                <a class="text-white">Hướng dẫn đăng ký</a>
+                <a class="text-white">Hướng dẫn thanh toán</a>
+                <a class="text-white">Hướng dẫn hoàn trả</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.6/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>

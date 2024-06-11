@@ -1,0 +1,164 @@
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\appsettings.Development.json
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\appsettings.json
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\CuaHangCaPhe.exe
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\CuaHangCaPhe.deps.json
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\CuaHangCaPhe.runtimeconfig.json
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\CuaHangCaPhe.runtimeconfig.dev.json
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\CuaHangCaPhe.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\CuaHangCaPhe.pdb
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\CuaHangCaPhe.Views.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\CuaHangCaPhe.Views.pdb
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Humanizer.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.csproj.AssemblyReference.cache
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.AssemblyInfoInputs.cache
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.AssemblyInfo.cs
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.csproj.CoreCompileInputs.cache
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.MvcApplicationPartsAssemblyInfo.cache
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.RazorAssemblyInfo.cache
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.RazorAssemblyInfo.cs
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\scopedcss\bundle\CuaHangCaPhe.styles.css
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\staticwebassets\CuaHangCaPhe.StaticWebAssets.Manifest.cache
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\staticwebassets\CuaHangCaPhe.StaticWebAssets.Pack.cache
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\staticwebassets\msbuild.CuaHangCaPhe.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\staticwebassets\msbuild.build.CuaHangCaPhe.props
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CuaHangCaPhe.props
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CuaHangCaPhe.props
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.TagHelpers.input.cache
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.TagHelpers.output.cache
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.RazorCoreGenerate.cache
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\Access\Login.cshtml.g.cs
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\Home\Account.cshtml.g.cs
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\SanPhams\Index.cshtml.g.cs
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.RazorTargetAssemblyInfo.cache
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.RazorTargetAssemblyInfo.cs
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.Views.pdb
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.csproj.CopyComplete
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\refint\CuaHangCaPhe.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.pdb
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.genruntimeconfig.cache
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\ref\CuaHangCaPhe.dll
+D:\FPL\SUMMER 2024\NET5\BaiLab\CuaHangCaPhe_ASM1\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\appsettings.Development.json
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\appsettings.json
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\CuaHangCaPhe.exe
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\CuaHangCaPhe.deps.json
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\CuaHangCaPhe.runtimeconfig.json
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\CuaHangCaPhe.runtimeconfig.dev.json
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\CuaHangCaPhe.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\CuaHangCaPhe.pdb
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\CuaHangCaPhe.Views.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\CuaHangCaPhe.Views.pdb
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Humanizer.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.csproj.AssemblyReference.cache
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.AssemblyInfoInputs.cache
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.AssemblyInfo.cs
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.csproj.CoreCompileInputs.cache
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.MvcApplicationPartsAssemblyInfo.cache
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.RazorAssemblyInfo.cache
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.RazorAssemblyInfo.cs
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.TagHelpers.input.cache
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.TagHelpers.output.cache
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.RazorCoreGenerate.cache
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\Access\Login.cshtml.g.cs
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\Home\Account.cshtml.g.cs
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\SanPhams\Index.cshtml.g.cs
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.RazorTargetAssemblyInfo.cache
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.RazorTargetAssemblyInfo.cs
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.Views.pdb
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\scopedcss\bundle\CuaHangCaPhe.styles.css
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\staticwebassets\CuaHangCaPhe.StaticWebAssets.Manifest.cache
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\staticwebassets\CuaHangCaPhe.StaticWebAssets.Pack.cache
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\staticwebassets\msbuild.CuaHangCaPhe.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\staticwebassets\msbuild.build.CuaHangCaPhe.props
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CuaHangCaPhe.props
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CuaHangCaPhe.props
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangC.6D5766BF.Up2Date
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\refint\CuaHangCaPhe.dll
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.pdb
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\CuaHangCaPhe.genruntimeconfig.cache
+D:\FPT polytechnic\c5\CuaHangCaPhe_ASM1 (1)\CuaHangCaPhe\CuaHangCaPhe\obj\Debug\net5.0\ref\CuaHangCaPhe.dll

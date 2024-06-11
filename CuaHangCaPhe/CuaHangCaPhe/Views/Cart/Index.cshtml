@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Giỏ hàng";
+}
+<style>
+    /* Thay đổi kích thước của hình ảnh */
+    img {
+        max-width: 100px; /* Đặt chiều rộng tối đa là 100px */
+        height: auto; /* Giữ nguyên tỷ lệ chiều cao khi thay đổi chiều rộng */
+    }
+
+    body {
+        background-image: url('/image/CFBG.jpg');
+        background-size: cover;
+        background-position: center;
+    }
+</style>
+<table class="table">
+    <thead>
+        <tr>
+            <th></th>
+            <th>Sản phẩm</th>
+            <th>Số lượng</th>
+            <th>Thành tiền</th>
+            <th>Xóa</th>
+        </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td><img src="~/image/cfcapuchinoda.jpg" /></td>
+                <td>Capuchino</td>
+                <td>
+                    <div class="mb-3 w-50 d-flex flex-row">
+                        <button class="btn btn-outline-secondary rounded-0" type="button">-</button>
+                        <input type="number" class="form-control w-25 text-center rounded-0" value="1" min="1">
+                        <button class="btn btn-outline-secondary rounded-0" type="button">+</button>
+                    </div>
+                </td>
+                <td class="fw-bold">100000("#,##0")<sup>đ</sup></td>
+                <td><button type="button" class="btn btn-delete" aria-label="Delete"><i class="bi bi-trash"></i></button></td>
+
+            </tr>
+    </tbody>
+</table>

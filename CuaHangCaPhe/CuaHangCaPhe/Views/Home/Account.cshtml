@@ -1,0 +1,65 @@
+﻿@{
+    ViewData["Title"] = "Account";
+}
+<style>
+    body {
+        background-image: url('/image/CFBG.jpg');
+        background-size: cover;
+        background-position: center;
+    }
+</style>
+<div class="container d-flex justify-content-center">
+    <form class="w-50 border border-1 m-5 p-3">
+        <center><h2>Thông tin tài khoản</h2></center>
+        <div class="row">
+            <div class="mb-3 col-sm-6">
+                <label class="form-label">Họ và tên</label>
+                <input type="text"
+                       class="form-control"
+                       required />
+            </div>
+            <div class="mb-3 col-sm-6">
+                <label class="form-label">Tài khoản</label>
+                <input type="text"
+                       class="form-control"
+                       required
+                       readonly />
+            </div>
+        </div>
+        <div class="row">
+            <div class="mb-3 col-sm-6">
+                <label class="form-label">Ngày sinh</label>
+                <input type="date"
+                       class="form-control"
+                       required />
+            </div>
+            <div class="mb-3 col-sm-6">
+                <label class="form-label">Giới tính</label>
+                <select class="form-select">
+                    <option>Nam</option>
+                    <option>Nữ</option>
+                </select>
+            </div>
+        </div>
+        <div class="row">
+            <div class="mb-3 col-sm-6">
+                <label class="form-label">Số điện thoại</label>
+                <input type="text"
+                       class="form-control"
+                       required />
+            </div>
+            <div class="mb-3 col-sm-6">
+                <label class="form-label">Email</label>
+                <input type="email"
+                       class="form-control"
+                       required />
+            </div>
+        </div>
+        <center>
+            <button class="btn btn-primary">
+                Cập nhật
+            </button>
+        </center>
+    </form>
+</div>
+

@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Sản phẩm";
+}
+<style>
+    body {
+        background-image: url('/image/CFBG.jpg');
+        background-size: cover;
+        background-position: center;
+    }
+</style>
+<div class="container">
+    <h2>Các loại cafe</h2>
+
+    <div class="row">
+
+        <div class="col-lg-4" style="margin-bottom: 30px ">
+            <div class="card">
+                <img class="card-img-top" src="~/image/cfcapuchinoda.jpg" alt="Product Image">
+                <div class="card-body">
+                    <h5 class="card-title">Capuchino</h5>
+                    <p class="card-text">Price: @String.Format("{0:C}",100000)</p>
+
+                </div>
+                <a asp-controller="GioHangs" asp-action="Index" class="btn btn-outline-success p-1 col-sm-12 mt-2"><span class="bi bi-cart-fill"></span></a>
+            </div>
+        </div>
+
+    </div>
+</div>
